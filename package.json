@@ -1,0 +1,14 @@
+{
+  "name": "sticky",
+  "version": "0.0.1",
+  "description": "A sticky note",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ling Liu",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
